@@ -1,19 +1,24 @@
 {
-    "transacoes": [
-        {
-            "id": 10,
-            "nome": "Joaquim",
-            "valor": 20.0
-        },
-        {
-            "id": 10,
-            "nome": "Joaquim",
-            "valor": 20.0
-        },
-        {
-            "id": 10,
-            "nome": "Joaquim",
-            "valor": 20.0
-        }
-    ]
+  "contas": [
+    {
+      "id": "7855",
+      "descricao": "Carro",
+      "val": "R$  457,38"
+    },
+    {
+      "id": "e97f",
+      "descricao": "4t4t4",
+      "val": "R$  3.543,64"
+    },
+    {
+      "id": "91de",
+      "descricao": "et3tw3",
+      "val": "R$  555.555,55"
+    },
+    {
+      "id": "2d0e",
+      "descricao": "453535",
+      "val": "6.363.663,64"
+    }
+  ]
 }
